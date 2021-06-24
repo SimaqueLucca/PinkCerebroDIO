@@ -1,0 +1,16 @@
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\bin\Debug\net5.0\PinkCerebroDIO.exe
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\bin\Debug\net5.0\PinkCerebroDIO.deps.json
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\bin\Debug\net5.0\PinkCerebroDIO.runtimeconfig.json
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\bin\Debug\net5.0\PinkCerebroDIO.runtimeconfig.dev.json
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\bin\Debug\net5.0\PinkCerebroDIO.dll
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\bin\Debug\net5.0\ref\PinkCerebroDIO.dll
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\bin\Debug\net5.0\PinkCerebroDIO.pdb
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\obj\Debug\net5.0\PinkCerebroDIO.csprojAssemblyReference.cache
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\obj\Debug\net5.0\PinkCerebroDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\obj\Debug\net5.0\PinkCerebroDIO.AssemblyInfoInputs.cache
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\obj\Debug\net5.0\PinkCerebroDIO.AssemblyInfo.cs
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\obj\Debug\net5.0\PinkCerebroDIO.csproj.CoreCompileInputs.cache
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\obj\Debug\net5.0\PinkCerebroDIO.dll
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\obj\Debug\net5.0\ref\PinkCerebroDIO.dll
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\obj\Debug\net5.0\PinkCerebroDIO.pdb
+C:\Users\luca.souza\Desktop\PinkCerebroDIO\obj\Debug\net5.0\PinkCerebroDIO.genruntimeconfig.cache
